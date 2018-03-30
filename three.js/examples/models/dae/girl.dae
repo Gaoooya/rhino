@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9d68b</authoring_tool>
     </contributor>
-    <created>2018-03-30T11:20:01</created>
-    <modified>2018-03-30T11:20:01</modified>
+    <created>2018-03-30T11:35:53</created>
+    <modified>2018-03-30T11:35:53</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -201,7 +201,7 @@
         <instance_light url="#Lamp-light"/>
       </node>
       <node id="Mesh_FreeVoxelGirl" name="Mesh_FreeVoxelGirl" type="NODE">
-        <matrix sid="transform">-0.04553095 0.7773768 -0.6273853 0.3107446 0.9824696 -0.07880624 -0.1689471 0.01158053 -0.1807774 -0.6240792 -0.7601609 -0.03445759 0 0 0 1</matrix>
+        <matrix sid="transform">-0.03972376 0.3608232 -0.9317878 0.3107446 0.9992067 0.01171525 -0.03806137 0.01158053 -0.002817301 -0.9325606 -0.3610024 -0.01826411 0 0 0 1</matrix>
         <instance_geometry url="#mesh_001-mesh" name="Mesh_FreeVoxelGirl">
           <bind_material>
             <technique_common>
